@@ -37,3 +37,10 @@ body {
     background-color: #151515;
     border-radius: 5px;
 }
+
+@media screen and (max-width:500px) {
+    body {
+        background-image: url(../images/mobile.jpg);
+        background-size: cover;
+    }
+}
