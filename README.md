@@ -5,8 +5,8 @@
 
 ### [Click To See](https://mohammadyousefvand.github.io/New-Year/)
 
-use **flipdown js** in Project
-[flipdown js](https://github.com/PButcher/flipdown)
+use **[flipdown js](https://github.com/PButcher/flipdown)** in Project
+
 
 😁 این مخزن هر سال آپدیت خواهد شد
 
