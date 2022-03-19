@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let year_title = document.querySelector('.year-title')
             document.body.style.backgroundImage = 'url(images/spring.jpg)'
             year_title.innerHTML = 'عید شما مبارک 😃🎉'
+            year_title.classList.add('animation')
             window.onresize = () => {
                 let bodyWidth = getComputedStyle(document.body)
                 let widthValue = parseInt(bodyWidth.width)

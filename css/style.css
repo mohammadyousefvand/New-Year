@@ -38,6 +38,16 @@ body {
     border-radius: 5px;
 }
 
+.animation{
+    animation: Noroz 3s ease infinite;
+}
+
+@keyframes Noroz {
+    0% {background-color: #151515; color: #fff;}
+    50% {background-color: #fff; color: #151515;}
+    100% {background-color: #151515; color: #fff;}
+}
+
 @media screen and (max-width:500px) {
     body {
         background-image: url(../images/mobile.jpg);
